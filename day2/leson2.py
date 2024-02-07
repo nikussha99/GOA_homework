@@ -1,0 +1,2 @@
+print("goashi shemosvlis tanave me gavicani demetre ekseulidze ")
+print("nu didixani ariqneba rac goash davregistrirdi magram zalian momwons maswavleblis damokidebuleba mas misi moswavleebis azri aintersebs da itvaliswinebs aseve bavshebis damokidebulebac momwons tu aric ar dagcineben piriqit agixsnian. ")
