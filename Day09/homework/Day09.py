@@ -1,35 +1,25 @@
+
 """
+დავალება:
+
 მომხმარებელს შეეკითხეთ ხელფასი
 
-"""
-
-num1=int(input("how much your salary?"))
-
-
-
-
-
-
-
-"""
 თუ 10000ზე მეტია, დაუპრინტეთ, გოა-ში სწავლობდი?
 
-"""
-if num1 > 10000:
-
- print("goashi swavlobii?")
-
-"""
 თუ 1000----10000 -ია , დაუპრინტეთ you mid
 
-"""
-if num1 <= 10000:
- print("you mid")
-
-"""
 თუ 1000-ზე დაბალია, დაუპრინტეთ, შემოსულიყავი გოაში, მატრიცელო
 
 """
+salary=int(input("რამდენია თქვენი ხელფასი? "))
 
-if num1 <1000:
+
+if salary > 10000:
+
+ print("goashi swavlobii?")
+
+elif salary<=1000 and salary <1000:
+ print("you mid")
+
+elif salary <1000:
  print("შემოსულიყავი გოაში, მატრიცელო")

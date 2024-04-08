@@ -57,3 +57,9 @@ print(num1<=100)
 print(num3<=30)
 print(num4<=40)
 print(num2<=55)
+
+#10
+num5 = int(input("Please enter first number: "))
+num6 = int(input("Please enter first number: "))
+num5==num6
+num6!=num5
