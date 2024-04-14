@@ -68,11 +68,13 @@ num6=int(input("please enter your number: "))
 
 
 num7=input("desired operation")
- if num7=="+":
+ 
+ 
+if num7=="+":
   print(num5+num6)
- elif num7=="-":
+elif num7=="-":
   print(num5-num6)
- elif num7=="*":
+elif num7=="*":
   print(num5*num6)
- elif num7=="/":
+elif num7=="/":
   print(num5/num6)
