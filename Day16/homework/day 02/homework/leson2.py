@@ -1,0 +1,2 @@
+print(" me gavicani demetre ekseulidze,nika shavadze, gio gagnidze, nino xvichia, giorgi gvritishvili.  ")
+print(" momwons maswavleblis damokidebuleba mas misi moswavleebis azri aintersebs da itvaliswinebs aseve bavshebis damokidebulebac momwons tu aric ar dagcineben piriqit agixsnian. ")
